@@ -1,0 +1,9 @@
+C:\Users\Guilherme Costa\source\repos\ExemploAquitetura\ExemploArquitetura.DI\bin\Debug\netstandard2.0\ExemploArquitetura.DI.deps.json
+C:\Users\Guilherme Costa\source\repos\ExemploAquitetura\ExemploArquitetura.DI\bin\Debug\netstandard2.0\ExemploArquitetura.DI.dll
+C:\Users\Guilherme Costa\source\repos\ExemploAquitetura\ExemploArquitetura.DI\bin\Debug\netstandard2.0\ExemploArquitetura.DI.pdb
+C:\Users\Guilherme Costa\source\repos\ExemploAquitetura\ExemploArquitetura.DI\obj\Debug\netstandard2.0\ExemploArquitetura.DI.csprojAssemblyReference.cache
+C:\Users\Guilherme Costa\source\repos\ExemploAquitetura\ExemploArquitetura.DI\obj\Debug\netstandard2.0\ExemploArquitetura.DI.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme Costa\source\repos\ExemploAquitetura\ExemploArquitetura.DI\obj\Debug\netstandard2.0\ExemploArquitetura.DI.AssemblyInfoInputs.cache
+C:\Users\Guilherme Costa\source\repos\ExemploAquitetura\ExemploArquitetura.DI\obj\Debug\netstandard2.0\ExemploArquitetura.DI.AssemblyInfo.cs
+C:\Users\Guilherme Costa\source\repos\ExemploAquitetura\ExemploArquitetura.DI\obj\Debug\netstandard2.0\ExemploArquitetura.DI.dll
+C:\Users\Guilherme Costa\source\repos\ExemploAquitetura\ExemploArquitetura.DI\obj\Debug\netstandard2.0\ExemploArquitetura.DI.pdb

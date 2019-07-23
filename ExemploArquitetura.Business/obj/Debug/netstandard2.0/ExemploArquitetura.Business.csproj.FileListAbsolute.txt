@@ -1,0 +1,9 @@
+C:\Users\Guilherme Costa\source\repos\ExemploAquitetura\ExemploArquitetura.Business\bin\Debug\netstandard2.0\ExemploArquitetura.Business.deps.json
+C:\Users\Guilherme Costa\source\repos\ExemploAquitetura\ExemploArquitetura.Business\bin\Debug\netstandard2.0\ExemploArquitetura.Business.dll
+C:\Users\Guilherme Costa\source\repos\ExemploAquitetura\ExemploArquitetura.Business\bin\Debug\netstandard2.0\ExemploArquitetura.Business.pdb
+C:\Users\Guilherme Costa\source\repos\ExemploAquitetura\ExemploArquitetura.Business\obj\Debug\netstandard2.0\ExemploArquitetura.Business.csprojAssemblyReference.cache
+C:\Users\Guilherme Costa\source\repos\ExemploAquitetura\ExemploArquitetura.Business\obj\Debug\netstandard2.0\ExemploArquitetura.Business.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme Costa\source\repos\ExemploAquitetura\ExemploArquitetura.Business\obj\Debug\netstandard2.0\ExemploArquitetura.Business.AssemblyInfoInputs.cache
+C:\Users\Guilherme Costa\source\repos\ExemploAquitetura\ExemploArquitetura.Business\obj\Debug\netstandard2.0\ExemploArquitetura.Business.AssemblyInfo.cs
+C:\Users\Guilherme Costa\source\repos\ExemploAquitetura\ExemploArquitetura.Business\obj\Debug\netstandard2.0\ExemploArquitetura.Business.dll
+C:\Users\Guilherme Costa\source\repos\ExemploAquitetura\ExemploArquitetura.Business\obj\Debug\netstandard2.0\ExemploArquitetura.Business.pdb

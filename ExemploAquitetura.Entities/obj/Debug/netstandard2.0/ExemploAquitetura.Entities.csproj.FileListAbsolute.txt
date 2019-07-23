@@ -1,0 +1,8 @@
+C:\Users\Guilherme Costa\source\repos\ExemploAquitetura\ExemploAquitetura.Entities\bin\Debug\netstandard2.0\ExemploAquitetura.Entities.deps.json
+C:\Users\Guilherme Costa\source\repos\ExemploAquitetura\ExemploAquitetura.Entities\bin\Debug\netstandard2.0\ExemploAquitetura.Entities.dll
+C:\Users\Guilherme Costa\source\repos\ExemploAquitetura\ExemploAquitetura.Entities\bin\Debug\netstandard2.0\ExemploAquitetura.Entities.pdb
+C:\Users\Guilherme Costa\source\repos\ExemploAquitetura\ExemploAquitetura.Entities\obj\Debug\netstandard2.0\ExemploAquitetura.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme Costa\source\repos\ExemploAquitetura\ExemploAquitetura.Entities\obj\Debug\netstandard2.0\ExemploAquitetura.Entities.AssemblyInfoInputs.cache
+C:\Users\Guilherme Costa\source\repos\ExemploAquitetura\ExemploAquitetura.Entities\obj\Debug\netstandard2.0\ExemploAquitetura.Entities.AssemblyInfo.cs
+C:\Users\Guilherme Costa\source\repos\ExemploAquitetura\ExemploAquitetura.Entities\obj\Debug\netstandard2.0\ExemploAquitetura.Entities.dll
+C:\Users\Guilherme Costa\source\repos\ExemploAquitetura\ExemploAquitetura.Entities\obj\Debug\netstandard2.0\ExemploAquitetura.Entities.pdb
